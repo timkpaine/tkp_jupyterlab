@@ -2,8 +2,8 @@
 export NODE_OPTIONS=--max-old-space-size=32768
 
 EXTENSIONS="
-@finos/perspective-jupyterlab@0.3.6
 @jupyter-widgets/jupyterlab-manager@1.0.2  
+@finos/perspective-jupyterlab@0.3.6
 @jupyter-widgets/jupyterlab-sidecar@0.4.0  
 @jupyterlab/celltags@0.1.5  
 @jupyterlab/git@0.7.0  
