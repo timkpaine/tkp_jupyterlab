@@ -58,4 +58,9 @@ typings/
 # next.js build output
 .next
 
-.DS_Store
+*.DS_Store
+
+.autoversion
+lab/staging
+lab/static
+lab/workspaces
