@@ -61,6 +61,10 @@ typings/
 *.DS_Store
 
 .autoversion
+lab/imports.css
+lab/schemas
+lab/settings
 lab/staging
 lab/static
 lab/workspaces
+lab/themes

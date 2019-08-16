@@ -1,0 +1,14 @@
+dask_labextension
+nbdime
+jupyterlab_iframe
+jupyterlab_autoversion
+jupyterlab_celltests
+jupyterlab_commands
+jupyterlab_email
+jupyterlab_git
+jupyterlab_github
+jupyterlab_heroku
+jupyterlab_quickopen
+jupyterlab_templates
+nbresuse
+jupyter_tensorboard
