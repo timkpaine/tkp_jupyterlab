@@ -33,11 +33,13 @@ jupyter-leaflet@0.11.1
 jupyter-materialui@0.1.1
 jupyter-matplotlib@0.4.2
 jupyter-threejs@2.1.1
+jupyter-webrtc@0.5.0
 jupyter-vue@0.1.0
 jupyter-vuetify@0.1.11
 jupyterlab-chart-editor@1.2.0
 jupyterlab-cpustatus@1.0.0
 jupyterlab-dash@0.1.0-alpha.3
+jupyterlab-datawidgets@6.2.0
 jupyterlab-drawio@0.6.0
 jupyterlab-favorites@1.0.0
 jupyterlab-hdf@0.1.0-alpha
