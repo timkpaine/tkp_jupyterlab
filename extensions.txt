@@ -28,7 +28,6 @@ ipysheet@0.4.3
 ipysigma@0.5.0
 ipytree@0.1.3
 ipyvolume@0.5.2
-jupyter-combobox@0.1.1
 jupyter-leaflet@0.11.1
 jupyter-materialui@0.1.1
 jupyter-matplotlib@0.4.2
@@ -46,7 +45,6 @@ jupyterlab-hdf@0.1.0-alpha
 jupyterlab-heroku@0.1.0
 jupyterlab-jupytext@1.0.2
 jupyterlab-kernelspy@1.0.0
-jupyterlab-nvdashboard@0.1.9
 jupyterlab-prodigy@1.0.0
 jupyterlab-python-bytecode@0.7.0
 jupyterlab-python-file@0.3.0
@@ -64,7 +62,6 @@ jupyterlab_filetree@0.2.1
 jupyterlab_iframe@0.2.1
 jupyterlab_templates@0.2.1
 jupyterlab_tensorboard@0.1.6
-jupyterlab_voyager@1.0.2
 lineup_widget@1.0.7
 nbdime-jupyterlab@1.0.0
 plotlywidget@1.1.0
