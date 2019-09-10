@@ -95,3 +95,7 @@ lab/extensions/qgrid-1.1.2.tgz filter=lfs diff=lfs merge=lfs -text
 lab/extensions/ filter=lfs diff=lfs merge=lfs -text
 lab/extensions/finos-perspective-jupyterlab-0.3.8-0e4ebf3fba2b16dc13f5255b83956f5903177f4f.tgz filter=lfs diff=lfs merge=lfs -text
 lab/extensions/lineup_widget-1.0.8-8bb3c5f083d78bbc9fb4ae6ada93048ce76e4d83.tgz filter=lfs diff=lfs merge=lfs -text
+lab/extensions/jupyterlab-git-0.8.2.tgz filter=lfs diff=lfs merge=lfs -text
+lab/extensions/bqplot-0.4.8.tgz filter=lfs diff=lfs merge=lfs -text
+lab/extensions/ipycanvas-0.2.0.tgz filter=lfs diff=lfs merge=lfs -text
+lab/extensions/jupyter-voila-jupyterlab-preview-0.1.2.tgz filter=lfs diff=lfs merge=lfs -text
