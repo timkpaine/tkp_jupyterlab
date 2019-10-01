@@ -99,3 +99,6 @@ lab/extensions/jupyterlab-git-0.8.2.tgz filter=lfs diff=lfs merge=lfs -text
 lab/extensions/bqplot-0.4.8.tgz filter=lfs diff=lfs merge=lfs -text
 lab/extensions/ipycanvas-0.2.0.tgz filter=lfs diff=lfs merge=lfs -text
 lab/extensions/jupyter-voila-jupyterlab-preview-0.1.2.tgz filter=lfs diff=lfs merge=lfs -text
+lab/extensions/jupyterlab_powerpoint-0.0.1-2fe7516a85dd2f398e1cf1094ca054f66908672a.tgz filter=lfs diff=lfs merge=lfs -text
+lab/extensions/jupyterlab_templates-0.2.1.tgz filter=lfs diff=lfs merge=lfs -text
+lab/extensions/multicontentsmanager-0.0.1-ef79020de9403636e072d4c7e6e577a4e38fb186.tgz filter=lfs diff=lfs merge=lfs -text
