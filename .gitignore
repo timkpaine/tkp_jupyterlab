@@ -59,7 +59,7 @@ typings/
 .next
 
 *.DS_Store
-
+.ipynb_checkpoints
 .autoversion
 lab/imports.css
 lab/schemas
