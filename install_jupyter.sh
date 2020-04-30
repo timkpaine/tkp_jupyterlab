@@ -7,7 +7,7 @@ do
     echo "Extensions failed to install"
 done
 
-until jupyter lab build
+until jupyter lab build --dev-build=False
 do
     echo "Extension failed to install"
 done
