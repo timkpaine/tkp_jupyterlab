@@ -14,6 +14,7 @@
 @parente/jupyterlab-quickopen
 @pyviz/jupyterlab_pyviz
 @ryantam626/jupyterlab_sublime
+@telamonian/theme-darcula
 bqplot
 dask-labextension
 ipyannotate
@@ -36,6 +37,7 @@ jupyter-widget-datetime
 jupyter-vue
 jupyter-vuetify
 jupyterlab-chart-editor
+jupyterlab-dash
 jupyterlab-datawidgets
 jupyterlab-drawio
 jupyterlab-execute-time

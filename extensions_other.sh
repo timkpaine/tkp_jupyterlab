@@ -3,9 +3,7 @@
 # @jupyterlab/google-drive
 # @mflevine/jupyterlab_html
 # @oriolmirosa/jupyterlabjupyterlab_materialdarker
-# @telamonian/theme-darcula
 # jupyterlab-cpustatus
-# jupyterlab-dash
 # jupyterlab-hdf
 # jupyterlab-heroku
 # jupyterlab-prodigy
