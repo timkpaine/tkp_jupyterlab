@@ -2,7 +2,6 @@
 # @alexbella/jupyterlab-custom-theme
 # @jupyterlab/google-drive
 # @mflevine/jupyterlab_html
-# @oriolmirosa/jupyterlabjupyterlab_materialdarker
 # jupyterlab-cpustatus
 # jupyterlab-hdf
 # jupyterlab-heroku

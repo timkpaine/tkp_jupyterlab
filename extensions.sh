@@ -15,6 +15,7 @@
 @pyviz/jupyterlab_pyviz
 @ryantam626/jupyterlab_sublime
 @telamonian/theme-darcula
+@yeebc/jupyterlab_neon_theme
 bqplot
 dask-labextension
 ipyannotate
