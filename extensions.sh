@@ -3,7 +3,6 @@
 @finos/perspective-jupyterlab
 @jupyter-voila/jupyterlab-preview
 @jupyter-widgets/jupyterlab-sidecar
-@jupyterlab/celltags
 @jupyterlab/git
 @jupyterlab/github
 @jupyterlab/toc

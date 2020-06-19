@@ -1,4 +1,5 @@
 # NON JLAB2
+# @jupyterlab/celltags
 # @jupyterlab/google-drive
 # @mflevine/jupyterlab_html
 # jupyterlab-cpustatus
