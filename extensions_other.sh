@@ -1,5 +1,4 @@
 # NON JLAB2
-# @alexbella/jupyterlab-custom-theme
 # @jupyterlab/google-drive
 # @mflevine/jupyterlab_html
 # jupyterlab-cpustatus
@@ -7,7 +6,6 @@
 # jupyterlab-heroku
 # jupyterlab-prodigy
 # jupyterlab_autoversion
-# jupyterlab_celltests
 
 # BROKEN
 # @quentinandre/jupyterlab_snippets
